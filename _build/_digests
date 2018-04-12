@@ -1,0 +1,4 @@
+"Rule: ocaml dependencies ml (%=lab8 )": "\136GuY\181A\189\229\210\136\193\231R\193\243\231"
+"Rule: ocaml: ml -> cmo & cmi (%=lab8 )": "N\192\247\014\004\023V`\207?\157\229:\228\206\148"
+"Resource: /Users/jane/Desktop/CS51/lab8-janeahn34/lab8.ml": "\1939\169B\183\168a\192N\192\131\024\196)\173\140"
+"Rule: ocaml: cmo* -> byte (%=lab8 )": "\019\229\164D\215\184M\0032(8A\255\196\174c"
